@@ -1,5 +1,6 @@
-Öffne cmd in deinen Dateien :) 
-schreibe nun git clone https://github.com/Pitgamer1909tv/L1am.git
+Öffne cmd in deinen Dateien ordner :) 
+schreibe zuerst "npm init -y"
+schreibe nun "git clone https://github.com/Pitgamer1909tv/L1am.git"
 du bekommst nun alles was auf dieser Seite ist in diesen Ordner nun gebe ein cd liam
 nun schreibe "npm i whatsapp-web.js"
 wenns fertig geladen ist schreibe "npm i qrcode-terminal"
