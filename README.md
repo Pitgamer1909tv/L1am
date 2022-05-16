@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Pitgamer1909tv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pitgamer1909tv/Pitgamer1909tv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Öffne cmd in deinen Dateien :) 
+schreibe nun git clone https://github.com/Pitgamer1909tv/L1am.git
+du bekommst nun alles was auf dieser Seite ist in diesen Ordner nun gebe ein cd liam
+nun schreibe "npm i whatsapp-web.js"
+wenns fertig geladen ist schreibe "npm i qrcode-terminal"
+wenn du jetzt mit der einrichtung fertig schreibe "node liam.js"
+und scanne den code mit deinem Handy der Da aufploppt. <3 
+Viel Spaß mit dem Bot Bei fragen meldet euch bei: https://wa.me/14427862189
+ps: euer Mateusz Romeo Kowalsi hat es geleaked :)
